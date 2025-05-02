@@ -11,7 +11,7 @@
 		{
 			"name": "clipboard-html-to-markdown",
 			"title": "Clipboard Html to Markdown",
-			"description": "Converts HTML contents of Clipboard to markdown",
+			"description": "Converts HTML contents of Clipboard to markdown and adds it to the clipboard",
 			"mode": "no-view"
 		},
 		{
